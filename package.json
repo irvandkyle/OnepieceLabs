@@ -1,0 +1,22 @@
+{
+  "name": "onepiecelabs",
+  "version": "1.0.0",
+  "description": "greenland",
+  "main": "index.js",
+  "scripts": {
+    "test": "luffy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvandkyle/OnepieceLabs.git"
+  },
+  "keywords": [
+    "onepiece"
+  ],
+  "author": "irvandkyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irvandkyle/OnepieceLabs/issues"
+  },
+  "homepage": "https://github.com/irvandkyle/OnepieceLabs#readme"
+}
